@@ -1,4 +1,4 @@
-# Traffic
+# Traffic Monitoring System
 This Repository includes a model trained on Kaggle dataset Car License Plate Detection using Faster RCNN model on Detectron2 and testing on realtime traffic videos and recognizing license plate numbers and speed of corresponding vehicles.
 
 ## Detectron2
